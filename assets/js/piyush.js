@@ -6,4 +6,5 @@ function tryos(uri){
 
 function loadzip(){
     window.open("https://drive.google.com/file/d/1XXbWqrs4gWwhWuWApdLpRgjBpvHvKlgK/view?usp=sharing")
+    console.log("DONE")
 }
