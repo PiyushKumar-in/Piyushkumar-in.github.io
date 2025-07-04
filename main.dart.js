@@ -62017,7 +62017,7 @@ ag(){return new A.I4()}}
 A.I4.prototype={
 L(a8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=null,a1=this.a,a2=a1.w,a3=A.kZ(1),a4=A.aE(a0,30,a0),a5=A.aE(a0,70,a0),a6=A.kZ(1),a7=A.aE(a0,20,a0)
 a1=a1.d
-s=A.c([new A.ug(new A.nO(A.apr(a0,a0,new A.qr("pdf_con.png",a0,a0)),a0,a0,!1,a0),"Simple PDF Editing/Compressing Merging tools written in Flutter/Dart. PDFTk CLI is used for pdf/image related manipulations & Ghostcript is used for compression.","PDF Tools","Flutter/Dart PDFtk GhostScript",a0)],t.th)
+s=A.c([new A.ug(new A.nO(A.apr(a0,a0,new A.qr("assets/pdf_con.png",a0,a0)),a0,a0,!1,a0),"Simple PDF Editing/Compressing Merging tools written in Flutter/Dart. PDFTk CLI is used for pdf/image related manipulations & Ghostcript is used for compression.","PDF Tools","Flutter/Dart PDFtk GhostScript",a0)],t.th)
 r=A.aE(a0,70,a0)
 q=A.kZ(1)
 p=A.aE(a0,30,a0)
