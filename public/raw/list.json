@@ -6,6 +6,11 @@
     },
     {
         "type": "list",
+        "title": "Featured Projects",
+        "folder": "projects/"
+    },
+    {
+        "type": "list",
         "title": "Featured Posts",
         "folder": "posts/"
     },

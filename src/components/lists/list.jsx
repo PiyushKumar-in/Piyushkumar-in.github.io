@@ -26,7 +26,7 @@ export default function List({title, folderUrl, featuredOnly, initialFiles=[]}){
 
         {files.map((elem,idx)=>((!featuredOnly) || (elem['featured']))?
             <div className="listEntry" key={idx}>
-                <a>May 2, 2026</a>
+                <a>{elem['time']}</a>
                 <div>
                     <a className="listEntryTitle" href={"/" + folderUrl + elem['file']}>{elem['title']}</a>
                     <a className="listEntryTitleUnderline">{"=".repeat(elem['title'].length)}</a>

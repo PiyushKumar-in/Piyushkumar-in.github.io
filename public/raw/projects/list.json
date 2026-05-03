@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "file":"index.md",
+        "title":"How To Use This Project",
+        "description":"Inspired from [Hugo](https://gohugo.io/), this project automatically inflates your Markdown files into static website, with no local installation needed. Click on '`How To Use This Project`' to know more.",
+        "time": "May 03, 2026",
+        "featured": true
+    },
+    {
+        "file":"index.md",
+        "title":"Reliable UDP Based Game",
+        "description":"Computer Networks' Course Semester Project demonstrating the use of Go-BackN(GBN) $\\&$ Selective Repeat Request(SRR) for achieving reliable communication over UDP using raw [c-sockets](https://man7.org/linux/man-pages/man2/socket.2.html), into a [Raylib](https://www.raylib.com/) based simple game.",
+        "time": "Apr 23, 2026",
+        "featured": false
+    }
+]

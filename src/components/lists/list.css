@@ -26,7 +26,7 @@
 
 .listEntryTitleUnderline{
     color: var(--font-color);
-    padding-bottom: 5px;
+    padding-bottom: 0;
 }
 
 .listEntry>div{

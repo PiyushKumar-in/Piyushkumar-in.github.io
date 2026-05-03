@@ -12,5 +12,19 @@
         "description":"Intro hai Bro Photo Ka",
         "time": "May 2, 2026",
         "featured": true
+    },
+    {
+        "file":"3.jpg",
+        "title":"IIT Jammu - Valley View",
+        "description":"Intro hai Bro Photo Ka",
+        "time": "May 2, 2026",
+        "featured": true
+    },
+    {
+        "file":"4.jpg",
+        "title":"IIT Jammu - Academic Complex",
+        "description":"Intro hai Bro Photo Ka",
+        "time": "May 2, 2026",
+        "featured": false
     }
 ]
