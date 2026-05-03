@@ -2,7 +2,7 @@ Hi, I'm [Piyush Kumar](https://www.linkedin.com/in/piyush-kumar-027a38286), a $4
 
 
 
-# THIS SITE IS UNDER CONSTRUCTION (AS of May 3, 2026)
+# SITE IS UNDER CONSTRUCTION
 ## Tentative Completion Date: 5 May, 2026
 
 
