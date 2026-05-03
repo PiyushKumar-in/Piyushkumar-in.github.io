@@ -2,15 +2,8 @@
     {
         "file":"index.md",
         "title":"Introduction to this Website",
-        "description":"Intro hai\nBro\n| A | B |\n| -- | -- |\n| C | C |\n\n Just Chill Bro$$x^2\\$\\$ok\n",
-        "time": "May 2, 2026",
-        "featured":true
-    },
-    {
-        "file":"index.md",
-        "title":"Introduction to this Website",
-        "description":"Intro hai Bro",
-        "time": "May 2, 2026",
-        "featured": false
+        "description":"Inspired from [Hugo](https://gohugo.io/), this website automatically inflates your Markdown files into a static website, with no installation needed.",
+        "time": "May 3, 2026",
+        "featured": true
     }
 ]
