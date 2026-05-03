@@ -1,0 +1,17 @@
+[
+    {
+        "type": "block",
+        "title": "About",
+        "file": "about.md"
+    },
+    {
+        "type": "list",
+        "title": "Featured Posts",
+        "folder": "posts/"
+    },
+    {
+        "type": "photos",
+        "title": "Featured Photos",
+        "folder": "photos/"
+    }
+]
