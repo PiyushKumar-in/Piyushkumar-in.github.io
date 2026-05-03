@@ -1,0 +1,16 @@
+[
+    {
+        "file":"1.jpg",
+        "title":"Introduction to this Website",
+        "description":"Intro hai Bro",
+        "time": "May 2, 2026",
+        "featured":true
+    },
+    {
+        "file":"2.jpg",
+        "title":"Introduction to this Website",
+        "description":"Intro hai Bro Photo Ka",
+        "time": "May 2, 2026",
+        "featured": false
+    }
+]

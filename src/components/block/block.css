@@ -1,0 +1,21 @@
+.block{
+    margin-top: 40px;
+    text-align: justify;
+}
+
+.block>a{
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--dark-font-color);
+}
+
+.block .more{
+    color: var(--primary-color);
+    font-weight: 400;
+}
+
+.block .more:hover{
+    color: var(--invert-font-color);
+    background-color: var(--primary-color);
+}

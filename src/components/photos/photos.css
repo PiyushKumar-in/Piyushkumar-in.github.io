@@ -1,0 +1,34 @@
+.photosFlex{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+
+.photo-wrapper {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    text-decoration: none;
+    width: 100%;
+}
+
+.photo-wrapper img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+.photo-wrapper::after {
+    content: '';
+    position: absolute;
+    bottom: -10px; 
+    left: 0;
+    width: 100%;
+    height: 10px;
+    background-color: var(--primary-color);
+}
+
+.photo-wrapper:hover::after {
+    bottom: 0;
+}

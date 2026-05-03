@@ -1,0 +1,38 @@
+.listEntry{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+
+.listEntry>a{
+    min-width: max-content;
+    padding-right: 20px;
+}
+
+.listEntry>div{
+    width: 100%;
+}
+
+.listEntryTitle{
+    width: fit-content;
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+.listEntryTitle:hover{
+    color: var(--invert-font-color);
+    background-color: var(--primary-color);
+}
+
+.listEntryTitleUnderline{
+    color: var(--font-color);
+    padding-bottom: 5px;
+}
+
+.listEntry>div{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
