@@ -4,6 +4,12 @@
     gap: 10px;
 }
 
+@media (max-width: 600px){
+    .photosFlex{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
 .photo-wrapper {
     position: relative;
     display: inline-block;
