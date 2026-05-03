@@ -26,10 +26,11 @@ export default function List({title, folderUrl, featuredOnly, initialFiles=[]}){
 
         {files.map((elem,idx)=>((!featuredOnly) || (elem['featured']))?
             <div className="listEntry" key={idx}>
-                <a>{elem['time']}</a>
+                {(window.innerWidth>600)?<a>{elem['time']}</a>:""}
                 <div>
                     <a className="listEntryTitle" href={"/" + folderUrl + elem['file']}>{elem['title']}</a>
                     <a className="listEntryTitleUnderline">{"=".repeat(elem['title'].length)}</a>
+                    {(window.innerWidth<=600)?<a>{elem['time']}</a>:""}
                     <CustomMarkdown>{elem['description']}</CustomMarkdown>
                 </div>
             </div>:""
